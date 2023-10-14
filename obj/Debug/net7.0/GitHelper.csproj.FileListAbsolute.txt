@@ -1,0 +1,15 @@
+C:\_Rider Projects\GitHelper\GitHelper\bin\Debug\net7.0\GitHelper.exe
+C:\_Rider Projects\GitHelper\GitHelper\bin\Debug\net7.0\GitHelper.deps.json
+C:\_Rider Projects\GitHelper\GitHelper\bin\Debug\net7.0\GitHelper.runtimeconfig.json
+C:\_Rider Projects\GitHelper\GitHelper\bin\Debug\net7.0\GitHelper.dll
+C:\_Rider Projects\GitHelper\GitHelper\bin\Debug\net7.0\GitHelper.pdb
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.csproj.AssemblyReference.cache
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.AssemblyInfoInputs.cache
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.AssemblyInfo.cs
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.csproj.CoreCompileInputs.cache
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.dll
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\refint\GitHelper.dll
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.pdb
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\GitHelper.genruntimeconfig.cache
+C:\_Rider Projects\GitHelper\GitHelper\obj\Debug\net7.0\ref\GitHelper.dll
